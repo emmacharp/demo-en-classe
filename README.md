@@ -2,4 +2,4 @@
 
 Marc-André
 Une autre ligne.
-Oh non! J'ai écrit sur la même ligne.
+Oh oui! J'ai réglé un conflit.
