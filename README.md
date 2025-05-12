@@ -2,4 +2,4 @@
 
 Marc-André
 Une autre ligne.
-Un beau conflit.
+Oh oui! J'ai réglé un conflit.
